@@ -1,0 +1,28 @@
+name: hdiouwehdiohewoiudhw
+favicon: null
+layout_spectrum: 0.8506694221869111
+typography_spectrum: 0.3555034496821463
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.27530928142368793
+  lightness: 0.6390824383124709
+  saturation: 0.7773487628437579
+  rhythmicContrast: 0.5805302618537098
+purpose: []
